@@ -10,6 +10,7 @@ Um jogo da forca simples feito em Rust rodando no terminal. O objetivo é adivin
 - Conceitos utilizados:
   - `Vec` (vetores)
   - `loop`
+  - `funções`
   - `match`
   - `chars()`
   - Entrada e saída com `stdin`
